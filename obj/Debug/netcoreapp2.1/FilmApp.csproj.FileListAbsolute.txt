@@ -1,0 +1,4 @@
+C:\Users\promt\Desktop\kal_academy\FilmApp\FilmApp\obj\Debug\netcoreapp2.1\FilmApp.csprojAssemblyReference.cache
+C:\Users\promt\Desktop\kal_academy\FilmApp\FilmApp\obj\Debug\netcoreapp2.1\FilmApp.csproj.CoreCompileInputs.cache
+C:\Users\promt\Desktop\kal_academy\FilmApp\FilmApp\obj\Debug\netcoreapp2.1\FilmApp.AssemblyInfoInputs.cache
+C:\Users\promt\Desktop\kal_academy\FilmApp\FilmApp\obj\Debug\netcoreapp2.1\FilmApp.AssemblyInfo.cs
